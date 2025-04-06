@@ -1,10 +1,10 @@
 {
-    "name": "",
+    "name": "mods for winter",
     "version": "",
     "author": "",
     "manifestType": "minecraftModpack",
     "manifestVersion": 1,
     "minecraft": {
-        "version": "1.12.2"
+        "version": "1.20.1"
     }
 }
